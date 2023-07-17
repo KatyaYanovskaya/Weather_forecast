@@ -139,19 +139,25 @@
     .container {
         border-radius: 0;
         height: 800px;
+        overflow: hidden;
+        width: 100%;
+    }
+
+    .request {
+        display: flex;
     }
 
     .inp {
-        width: 340px;
-        height: 55px;
+        width: 180px;
+        height: 35px;
     }
 
     .btn {
-        height: 55px;
+        height: 35px;
     }
     
     .card {
-        width: 360px;
+        width: 230px;
 
     }
 }
