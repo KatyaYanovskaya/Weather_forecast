@@ -138,6 +138,7 @@
 @media (max-width: 320px)  {
     .container {
         border-radius: 0;
+        height: 800px;
     }
 
     .inp {
@@ -151,6 +152,6 @@
     
     .card {
         width: 360px;
-        
+
     }
 }
