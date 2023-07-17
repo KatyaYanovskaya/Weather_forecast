@@ -135,7 +135,7 @@
 }
 
 
-@media (max-width: 320px)  {
+@media (max-width: 571px)  {
     .container {
         border-radius: 0;
         height: 800px;
